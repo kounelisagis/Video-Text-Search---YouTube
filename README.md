@@ -1,6 +1,6 @@
 # Video Text Search - YouTube
 Speed is the Key\
-Online Preview: https://kounelisagis.com/video_text_search/
+Online Preview: https://kounelisagis.me/video_text_search/
 
 ## Screenshot
 ![Screenshot](_images/screenshot.png)
